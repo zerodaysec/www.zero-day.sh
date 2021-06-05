@@ -1,0 +1,10 @@
+#!/bin/bash
+
+sudo apt update
+sudo apt upgrade -y
+
+
+sudo apt install -y \
+	htop git
+
+echo "FIXME - NOT WORKING"
